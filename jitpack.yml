@@ -1,4 +1,4 @@
 jdk:
  - openjdk17
 install:
-   - ./gradlew :line-awesome:publishToMavenLocal
+   - ./gradlew :tabler-icons:publishToMavenLocal

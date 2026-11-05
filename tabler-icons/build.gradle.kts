@@ -18,7 +18,7 @@ android {
 
 registerGeneratorTask(
     githubId = "tabler/tabler-icons",
-    version = "v1.39.1",
+    version = "v3.50.0",
     mapSourceCodeIconsToSvgComposeFolder = { repoCloneDir ->
         val iconsDir = File(repoCloneDir, "icons")
 
